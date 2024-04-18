@@ -36,12 +36,16 @@ The fun fact about this map is that i wanted to add an electric circuit that whe
 
 # Special Thanks.
 
-- Forte
+- Em3raldTig3r
 - CommonCold
-- Mr.M
+- Makkon
 - RecycledOJ
+- Admer
 - Kirotael
 - Miss_slaughter
+- AlexUnder
+- PyroGXPilot
+- Mikolah.
 - Damaec
 - Dany
 - Nepta
