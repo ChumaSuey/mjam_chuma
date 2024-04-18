@@ -20,9 +20,12 @@ Author : Chuma
 - bmFbr.
 - Kayne.
 - RecycledOJ.
+- JoyModulo.
 - Mopey Bloke.
 - Alunadrern.
 - Karl Casey @ White Bat Audio.
+
+Used track : "To be a God" by White Bat Audio @ Karl Casey.
 
 ## About the map / Behind the scenes info and facts.
 
@@ -36,6 +39,8 @@ The fun fact about this map is that i wanted to add an electric circuit that whe
 
 # Special Thanks.
 
+- Yuyi
+- Alunadrern
 - Em3raldTig3r
 - CommonCold
 - Makkon
@@ -46,6 +51,7 @@ The fun fact about this map is that i wanted to add an electric circuit that whe
 - AlexUnder
 - PyroGXPilot
 - Mikolah.
+- Riktoi.
 - Damaec
 - Dany
 - Nepta
@@ -53,7 +59,8 @@ The fun fact about this map is that i wanted to add an electric circuit that whe
 - Em3raldTig3r
 - Quake Mapping community (Slipseer and Quaddicted)
 - USDQC
-- Quake Champions community.
+- Nyx and Dez communities.
+- Meowgi's community (Pacifist Paradise)
 - Quake speedrunning community
 - New Blood Interactive
 - Nightdive studios.
