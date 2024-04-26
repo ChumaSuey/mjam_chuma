@@ -21532,7 +21532,7 @@
 // entity 904
 {
 "classname" "trigger_multiple"
-"message" "-Data log #0451 from J-\n-Data scraped email with PDA-\nHey, Daelon I hope you`re doing well.\nCan we stop hiding\nthings in the high pillars?\nIt`s getting quite annoying.\nAlso I hope we get to fix the\nstair rubble.\nI know we found a weird teleporter.\nTo heaven or wherever it goes.\nBut it`s been getting annoying to walk\nTowards the factory through\nThe normal entrance.\n-LOG ENDED-"
+"message" "Data log #0451 from J-\n-Data scraped email with PDA-\nHey, Daelon I hope you`re doing well.\nCan we stop hiding\nthings in the high pillars?\nIt`s getting quite annoying.\nAlso I hope we get to fix the\n stair rubble.\nI know we found a weird teleporter.\nTo heaven or wherever it goes.\nBut it`s been getting annoying to walk\nTowards the factory through\nThe normal entrance.\nThe other day Kelsea\nLiterally fell from\nThe sky and left\nher parachute up there\nSOMEHOW?!?!-LOG ENDED-"
 "sounds" "2"
 "wait" "5"
 "_tb_layer" "4091"
