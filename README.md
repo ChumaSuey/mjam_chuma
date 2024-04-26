@@ -23,6 +23,8 @@ Author : Chuma
 - JoyModulo.
 - Mopey Bloke.
 - Alunadrern.
+- ManofNod.
+- Paril
 - Karl Casey @ White Bat Audio.
 
 Used track : "To be a God" by White Bat Audio @ Karl Casey.
