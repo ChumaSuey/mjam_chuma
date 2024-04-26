@@ -9,7 +9,7 @@ Dana (Data Log #0777): Derrick, I know we decided to hide the Golden keycard fro
 
 Kevin (Data Log #0898): Arty, I know we've been hiding stuff in the upper parts of our buildings, but why are we hiding a nuclear-type weapon on the outpost rooftop? That's not safe in any way! Seriously, I'm scared of that green reaper guy, Slayer, or whatever he's called. But we didn't have to resort to these unsafe extreme practices. It's as stupid as setting up emergency drones in the rest lounge that come out of the window.
 
-
+Arthur (Data Log #6969): Sayu, the other day Kelsea badly stepped into the rubble and somehow came out of the sky! That teleporter below the stairs should be locked down soon! P.S. Be careful with that red flying monster pet the green guy left. I'm not sure if it was given back, but that guy scares me! He brutally killed our colleagues JUST WITH HIS HAND!
 
 
 In-game version
@@ -22,3 +22,5 @@ I know we found a weird teleporter.\nTo heaven or wherever it goes.\nBut it`s be
 
 
 -Data log #0898 from Kevin-\n-Data scraped email with PDA-\nArty, I know we`ve been hiding\nstuff in the upper-side of our buildings\nBut… Why are we hiding\nA nuclear-type-sort-of weapon\nIn the outpost rooftop?\nThat isn`t safe in any form!\nJesus! I am scared of that guy!\nYes, the green reaper or Slayer.\nOr whatever that guy is called.\nBut we didn`t have to come up\nWith these non-safe extreme practices.\nThis is as stupid, as setting up\nEmergency drones in the rest lounge\nThat come out from the window.\n-LOG ENDED-
+
+-Data log #6969 from Arthur-\n-Data scraped email with PDA-\nSayu, the other day Kelsea\nBadly stepped into the rubble and\ncame out of the sky\nThat teleporter below the stairs\nShould be locked soon!\nPD: Be careful with that\nred flying monster pet that\nThe green guy left\nNot sure if it was given back\nBut i am scared of that guy\nHe brutally killed our colleagues\nJUST WITH HIS HAND!\n-LOG ENDED-
