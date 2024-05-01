@@ -51,6 +51,7 @@ Also a change i've applied is that there are log backlogs in the form of Trigger
 - Em3raldTig3r
 - CommonCold
 - Makkon
+- Alphaent
 - RecycledOJ
 - Admer
 - Kirotael
