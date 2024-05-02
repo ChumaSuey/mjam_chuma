@@ -21566,7 +21566,7 @@
 // entity 906
 {
 "classname" "trigger_multiple"
-"message" "-Data log #0777 from Dana-\n-Data scraped email with PDA-\nDerrick, I know we decided to hide\nThe Golden keycard from the deposit area\nAmong the factory boxes.\nBut why did we have to hide\nthe platinum key deep inside the pool?\nI`m starting to suppose it has to do\nWith that Green armored “Power Ranger”.\nGuy helped us clean the weird demon\nPlague in the base.\nAnyways, I don`t think a wooden plank\nWill stop anyone beyond ourselves to\nGet the silver keycard.\n-LOG ENDED-"
+"message" "-Data log #0777 from Dana-\n-Data scraped email with PDA-\nDerrick, I know we decided to hide\nThe Golden keycard from the deposit area\nAmong the factory boxes.\nBut why did we have to hide\nthe platinum key deep inside the pool?\nI`m starting to suppose it has to do\nWith that Green armored 'Power Ranger'.\nGuy helped us clean the weird demon\nPlague in the base.\nAnyways, I don`t think a wooden plank\nWill stop anyone beyond ourselves to\nGet the silver keycard.\n-LOG ENDED-"
 "sounds" "2"
 "wait" "5"
 "_tb_layer" "4091"
