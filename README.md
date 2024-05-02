@@ -19,12 +19,15 @@ Author : Chuma
 
 - bmFbr.
 - Kayne.
+- Forte.
+- daviddg
 - RecycledOJ.
 - JoyModulo.
 - Mopey Bloke.
+- Lobotomy-lobster. 
 - Alunadrern.
 - ManofNod.
-- Paril
+- Paril. 
 - Karl Casey @ White Bat Audio.
 
 Used track : "To be a God" by White Bat Audio @ Karl Casey.
@@ -39,6 +42,8 @@ And about the music, Good ol' Karl Casey, never fails to deliver (you can't name
 
 The fun fact about this map is that i wanted to add an electric circuit that when shot it would turn off some lights, but i wasn't sure the "exploding objects" could have a target... so i left it as a remnant.
 
+Also a change i've applied is that there are log backlogs in the form of Trigger_multiples with a 5 second delay, since the font of Malice isn't very readable, in the notepad are the notes of these logs! They are pretty much attempting to be parodic or comedic... hope you enjoy them.
+
 # Special Thanks.
 
 - Yuyi
@@ -46,6 +51,7 @@ The fun fact about this map is that i wanted to add an electric circuit that whe
 - Em3raldTig3r
 - CommonCold
 - Makkon
+- Alphaent
 - RecycledOJ
 - Admer
 - Kirotael
